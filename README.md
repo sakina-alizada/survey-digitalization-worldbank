@@ -44,14 +44,15 @@ This project was developed in collaboration with the **World Bank** to digitize 
 ## 🗂 Repository Structure
 worldbank-survey/
 ├── README.md
-├── odk-forms/ # XLSForm definitions and forms
-├── backend/ # Scripts and database integration
-│ ├── scripts/
-│ └── database/
-├── docs/ # Training manuals, field guides, and documentation
-│ ├── training-manual.pdf
-│ └── field-guide.pdf
-└── dashboard/ # Web dashboard frontend and backend
+├── odk-forms/           # XLSForm definitions and forms
+├── backend/             # Scripts and database integration
+│   ├── scripts/
+│   └── database/
+├── docs/                # Training manuals, field guides, documentation
+│   ├── training-manual.pdf
+│   └── field-guide.pdf
+└── dashboard/           # Web dashboard frontend and backend
+
 
 
 ---
